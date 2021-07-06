@@ -1,6 +1,6 @@
-gerbers: electrical/smt/gerber
-bom: bom.csv
-eda:
+gerbers: gerber
+bom: 1-click-bom.csv
+eda: 
   type: eagle
   pcb: filaSens.brd
   schematic: filaSens.sch
