@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/m3cin/Downloads/infidel-sensor-main/electrical/smt/EAGLE/filaSens.sch at 7/5/2021 6:17 PM
+Partlist exported from C:/Users/m3cin/Downloads/infidel-sensor-main/electrical/smt/EAGLE/filaSens.sch at 7/6/2021 11:11 AM
 
 Qty Value                                Device                               Package                       Parts  Description                          CATEGORY COLOR  DESCRIPTION   MANUFACTURER MF                         MPN        OC_FARNELL OC_NEWARK OPERATING_TEMP PART_STATUS POPULARITY PROD_ID    ROHS_COMPLIANT SERIES SF_SKU    SPICEPREFIX SUB-CATEGORY THERMALLOSS TYPE     VALUE
 2   10uF                                 C-EUC0402                            C0402                         C1, C2 CAPACITOR, European symbol                                                                                                                                            18                                                    C                                                  
