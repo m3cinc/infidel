@@ -1,4 +1,4 @@
-gerbers: gerber
+gerbers: GerberFiles
 bom: 1-click-bom.csv
 eda: 
   type: eagle
