@@ -1,0 +1,10 @@
+gerbers: electrical/smt/gerber
+bom: bom.csv
+eda:
+  type: eagle
+  pcb: filaSens.brd
+  schematic: filaSens.sch
+color: blue
+readme: README.md
+site: https://github.com/m3cinc/infidel
+summary: The InFiDEL is a cheap (< $5) filament diameter sensor intended for use with FDM 3d printers. rev1A has revised tracing, GND and reduced vias.
